@@ -1,0 +1,108 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.4.0">
+  <diagram id="V4no7SfKth1cJYrVEAcI" name="Page-2">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h0WSDHexluukv5FyjgYT-3" edge="1" parent="1" source="h0WSDHexluukv5FyjgYT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="h0WSDHexluukv5FyjgYT-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="start" vertex="1">
+          <mxGeometry height="80" width="80" x="390" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-5" edge="1" parent="1" source="h0WSDHexluukv5FyjgYT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="h0WSDHexluukv5FyjgYT-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-2" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(226, 226, 226); font-family: &amp;quot;Lato Extended&amp;quot;, Lato, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(22, 22, 22);&quot;&gt;Follow Liberty Avenue for 2 miles&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-7" edge="1" parent="1" source="h0WSDHexluukv5FyjgYT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="h0WSDHexluukv5FyjgYT-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-4" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(226, 226, 226); font-family: &amp;quot;Lato Extended&amp;quot;, Lato, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(22, 22, 22);&quot;&gt;then take a left turn onto 40th Street&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-9" edge="1" parent="1" source="h0WSDHexluukv5FyjgYT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="h0WSDHexluukv5FyjgYT-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-6" parent="1" style="whiteSpace=wrap;html=1;" value="keep driving" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-11" edge="1" parent="1" source="h0WSDHexluukv5FyjgYT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="h0WSDHexluukv5FyjgYT-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-12" connectable="0" parent="h0WSDHexluukv5FyjgYT-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="no" vertex="1">
+          <mxGeometry relative="1" x="0.0222" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-14" edge="1" parent="1" source="h0WSDHexluukv5FyjgYT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="h0WSDHexluukv5FyjgYT-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-15" connectable="0" parent="h0WSDHexluukv5FyjgYT-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="yes" vertex="1">
+          <mxGeometry relative="1" x="-0.2444" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Did you reach a bridge?" vertex="1">
+          <mxGeometry height="80" width="80" x="390" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-10" parent="1" style="whiteSpace=wrap;html=1;" value="Keep Driving" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-17" edge="1" parent="1" source="h0WSDHexluukv5FyjgYT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="h0WSDHexluukv5FyjgYT-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-13" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(226, 226, 226); font-family: &amp;quot;Lato Extended&amp;quot;, Lato, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(22, 22, 22);&quot;&gt;make a right turn onto Foster Street&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-19" edge="1" parent="1" source="h0WSDHexluukv5FyjgYT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="h0WSDHexluukv5FyjgYT-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-16" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(226, 226, 226); font-family: &amp;quot;Lato Extended&amp;quot;, Lato, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(22, 22, 22);&quot;&gt;then take the first left turn&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-21" edge="1" parent="1" source="h0WSDHexluukv5FyjgYT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="h0WSDHexluukv5FyjgYT-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-18" parent="1" style="whiteSpace=wrap;html=1;" value="keep driving&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-23" edge="1" parent="1" source="h0WSDHexluukv5FyjgYT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="h0WSDHexluukv5FyjgYT-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-24" connectable="0" parent="h0WSDHexluukv5FyjgYT-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="no" vertex="1">
+          <mxGeometry relative="1" x="-0.1556" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-26" edge="1" parent="1" source="h0WSDHexluukv5FyjgYT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="h0WSDHexluukv5FyjgYT-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-27" connectable="0" parent="h0WSDHexluukv5FyjgYT-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="yes" vertex="1">
+          <mxGeometry relative="1" x="-0.1765" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-20" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Did you reach&amp;nbsp;&lt;span style=&quot;color: rgb(226, 226, 226); font-family: &amp;quot;Lato Extended&amp;quot;, Lato, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(22, 22, 22);&quot;&gt;the National Robotics Engineering Consortium building&lt;/span&gt;" vertex="1">
+          <mxGeometry height="260" width="230" x="315" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-22" parent="1" style="whiteSpace=wrap;html=1;" value="keep driving" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="End" vertex="1">
+          <mxGeometry height="80" width="80" x="390" y="1910" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-28" parent="1" style="shape=stencil(lVnbchsxCP0avzIgCV2ee/mPzDRtPE2TTpre/r5sHW1WyHvsvNleWIGAwwEf4rsfdzffbw+Bfzw/PX69/X389Hx3iO8PIRwf7m6fjs/26RA/HOK7z49Pt1+eHn8+fDp9/36zSC6fvj3+Wt7w56TXKmletAL/Pf0SqMX/P3w8yd8fH7bykWrz8mlfvhaqwcm/vOC8PJMkL6/78kUoT+8H9udIMXp52ZdXpervpwD7UyP29pcK5Ff3unwkLvvysZCIk2/A/ijefqUU9uVDociDfKGSgXwkGe9fGAZYGkWnkCgxULAIjDcqlQJwWcKUcoESUuD+eFXIVEAQqpePoWfV+aSjPNZMrFSBy0phzNGkMEkT8eiwWpaDooz+/ZkpAHsshccIZPMI+BtIR/liAYDyebSnFAogSdcS6fKGGg2ARKQy1liN3cKdeMUxvjVTAkVg+TD6a6jXQNGLeBCqDQbYSuQFRLpCM9xDRVN71a4KFnRg0lLHY9231JF1DyjcpTYlBUG2GsnjrbbcsWwP6lS9QsRYGqpXSAis7fGsAApf2VfaBZM0ePAyhYBOMPwtXoFBbmcrremWBJxgHZBdpBW2KFPIc6TBtebkId4UUC6ZQkteoSIf9IzTEdRDXgF0o1CR00rNFVDBmKGeGDXcprJ65mIKkLooiTNp7aV716rFK2SUSyuX2Cig7m8KQacTkELoj7c+4PSW6VorOkGo8RQHdIL0W99GGqWGTKmRIQczHxynWrIVRTpM2aqQVFkcUvQKqENbanDzChdqukwlClNDzzgtuIDKVKIZg0CbAhdxxXmYsT6NnDaT3AkVX6v6xm7pLRhm3qYw9wdh7oC+24KmIxDeL01uQgEEG2llRxsFRAWWRj2ZhAiiUQGf3xg24lxyDVPc0h9vQg0HnzChsSUTSFcpfmqw/C6Iw1mjdicoMZrNO7PYcD5EsLIf3YxUIqox8QBjrSjzxHMfo9Fo7GHKIxurCY4B3J+u8tKbxY68I2/LmAH8ZU+UbIxBYxX3fr8Zk1BWcw//Ora13rt27lNH+xXvaqaxzcZINAPYbY/yNqYKHGt5LMoonZbtjEmuldugqyC+NpeXMaHDhd1C7BW4giPm81aTeQyB2OyKYEK8Qu3LhvPyVmNjzSicJO0G5S3ruJh9hxKYooa8Tp6hPfM6i7uBV67LuF/Ales4hik3r/u4g9iV60TuxOfKdSVDSJzXobgZz+vWtdnuyTtGfsGe5muY4TC4NGrvb8Tybuo30Ab5ZvLNvx9tajZk5jWhAyr5cwqIrMwWCeSAs8cBTprzjYY+hV0ZsQB3j3NG4IX6mxf8F+Xtw+u/CZ+P9/enPyO2z/2/D/bT6Z+L+OEf);lineShape=1;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="97.35068776849243" width="98.51264566022655" x="90.90191301557911" y="371.56871969434746" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-29" parent="1" style="shape=stencil(fZbdcgIhDIWfZm8zQAg/17Z9j85U606tdqz9e/tmZ0c0uJ47xP0I5JwEBl59bp8/1kNwn6fj4W39M76ctgM/DCGM++36OJ50NPDjwKvN4bh+PR6+9i/z74/n6ctp9H74nlb4nbmSKZeJCu5vngmZ6jzzNAO7cX8FVKEsBuBKrgKg9oAE8gkCbLeUhEoEQKSUDZDLeWYRKIl8MEDRmHwfyBrBG6Amyu4+kDxxMoB3jhwgYu7TVAsVkFcWCs4CTBEoF4RctKeOxHIf8IXYpikHikAIf+MNUW94AGSSaoAoFIE3AlOyeWU+p2E5S9yfQZcQILVuQOwZdJNoS9Ls3wA5u2XZTIHECqeJ9kDpSaauRiNVcAY1QhdBzeLBli5WazpkSsBLV25uRaqWRyFawTQzRRIQYirJzq5atkBqLfouwqUxLBepthWb10vrWZY6UOAeyKCCtDV625mm9gmUC4Wc3VLJMMIE1BsA2FW9JraVlQB7n3c9oMKhCLEvIM1zBPZ25/umNQ1tVEC2G+fFCC8g398O2hNQuQlVu752DBfA+q0ptnqO5JFmeuIuo9DY7KjY71UxdJV4EntifPWorW++R/dC4t7V3DlIB5cHx2bc7eb3yvX//QNFp+bHDT/+Aw==);lineShape=1;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="4.665236216357243" width="4.672539772115215" x="206.8679608424759" y="457.8753124585194" as="geometry" />
+        </mxCell>
+        <mxCell id="h0WSDHexluukv5FyjgYT-30" parent="1" style="shape=stencil(lVjLbhsxDPwaXwmKep/T9D8CxGmMpnHgJH38fbk15Cyp9RS5rdealUgOyaF28eb18e5lvxN+fTsdv+9/He7fHnfxy07k8Py4Px3e9GkXb3fx5uF42n87Hd+f78+/X+6WlcvTj+PP5Qu/z7hAvS0g4T/nF0ws/158PS9/OjyvljeK3S0v+frykEmyWR+o9OvrRSgFsz5SjNfXRz2tPX6mVMD6Rmy/38YHNtenTM1+PwQSsEFOFB0gUwQeKkK9GIC6VNJ1QA2U2AIyjEHtFJL1aaBYQYzzFIRCLVwHdPZRTkIMduiRmrUh1UGsbUChVG2chQqIQ28kDlCpIxv68MkAaGQqoF5g5Z41olRiZESnarfQWAZsRLFkqok6QzdlG+raKCNApGQBLYxDbnNDbbAFoCWqgH1Kpm691HCom/iU1j0LOJKaKPZIPQy/bQMSJQfAVaZ06tZLHRtd9G9rQ1c3ABty9xnUlUugCuQ4DrACoB2S8lssoFEFO2jpc4WpXz6xDQijSKwAHdBbAWKPtMqpbYR2G5m2AIFQQGAPaKih9NGfVgBUXRWQsgck4CYFxGmHACKnAJfUGrmObWjFAyqKHA/6rwAZRY6pdQ9IqI+GUYbWAETXSwNZHwnRVShPAFQFFNCnhGigMKW4waWA3BpHO1hnEDbau1XJB5rWYvSUcg0lkPie1S+17Vrg0qdztM05igLBQ1GtjQCAhd+T1YjfSwZNANQWN3MUyb6lClQPYBA5BdQp5SpiHw+psOY34gZTnVIOGf15QPJ6ZulByIY22VApg+K6iDxX+sqobduANvE7Q34X7fwOkEZd2AY0r6ZVPFRwpCpeWHaBtbIWYkcNhk2uXti/UkwoRVv0PasVrPoqiT2Sqj7BE4ETQKorI4jDhxNXylVAHDSuzR5JZR2KgzKn2yKwqG90pOojrfoeyvXiy4yOEA3toIOWtWHhL56bivWSZggcCMJQkatBq4LAaaSz3UFbRsJy3RXjWKFMVHo7DafjKKK3Zpy7opAyknYbMKlEHalREVAnBpuioVAACks7e7NuDQKlgA7QvvKNJN++B2meGQXKpcVAF7Yxw28Pr4mCbXACW271g2iAw3SYb30QJXi6ZIHNlj1FNY/B2dmPh5oT8OtO5TE0lf2FEsMqNN0ZKFcBldkrSB7z+jVTi1uOEkUdKW45GkTYk57h3ZkG0ZuKbhZ1QvCmoh72yXvL/y7Xh48r0ofD09P5hnX9v79S1Vfn69h4+xc=);lineShape=1;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="211.7008734704275" width="87.25117945447505" x="191.59285804052183" y="312.58506769741734" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
